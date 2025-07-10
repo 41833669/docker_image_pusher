@@ -1,1 +1,1 @@
---platform=linux/arm64 onlyoffice/documentserver
+--platform=linux/arm64 redis:latest
